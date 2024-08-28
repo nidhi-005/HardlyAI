@@ -12,7 +12,7 @@ This repository contains all the necessary files and code for our project. Below
 ### CONTRIBUTION FILE HardlyAI.docx
 - **Description:** Contains contribution of the members.
 
-### data_description.txt , ### train.csv , ### test.csv , ### sample_submission.csv
+### data_description.txt , train.csv , test.csv , sample_submission.csv
 - **Description:** This files were provided by the organizers. It includes data description , train set data , test set data , sample format of submission.
 
 ### Final.ipynb
